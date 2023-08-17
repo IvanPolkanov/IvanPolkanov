@@ -50,7 +50,7 @@ https://simpleicons.org/
 
 <!-- ✅  **GitHub Extra Pins**
 
-![IvanPolkanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPolkanov)
+[IvanPolkanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPolkanov)
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
