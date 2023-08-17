@@ -50,7 +50,7 @@ https://simpleicons.org/
 
 <!-- ✅  **GitHub Extra Pins**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh)](https://github.com/ahmad-sawalqeh/my_resume) -->
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
