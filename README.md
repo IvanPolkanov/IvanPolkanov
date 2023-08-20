@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ivan-polkanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan-polkanov" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ivanpolkanovdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ivanpolkanovdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ivan polkanov dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ivan polkanov dev" height="30" width="40" /></a>
 <a href="/https://duck4duck.ru/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://duck4duck.ru/feed/" height="30" width="40" /></a>
 </p>
 
@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanpolkanov&show_icons=true&locale=en&layout=compact" alt="ivanpolkanov" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanpolkanov&show_icons=true&locale=en" alt="ivanpolkanov" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanpolkanov&" alt="ivanpolkanov" /></p>
